@@ -2,13 +2,15 @@ This project showcases the real-time facial emotion recognition implementation u
 
 To simplify the process, we use the deepface library, a deep learning tool for facial analysis that utilizes pre-trained models for precise emotion detection. The underlying deep learning operations are powered by TensorFlow, while OpenCV, an open-source computer vision library, is used for image and video processing.
 Initial Setup:
-Clone the repository: Execute git clone https://github.com/adityarv09/Facial-Emotion-Recognition-with-OpenCV-and-DeepFace.git .
+Clone the repository: Execute git clone
+ https://github.com/adityarv09Facial-Emotion-Recognition-with-OpenCV-and-DeepFace.git .
 
 Navigate to the project directory: Run cd Facial-Emotion-Recognition-using-OpenCV-and-DeepFace.
 
 Install required dependencies:
 
 Option 1: Use pip install -r requirements.txt.
+
 Option 2: Install dependencies individually:
 pip install deepface
 pip install opencv-python
